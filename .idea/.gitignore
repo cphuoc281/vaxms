@@ -1,0 +1,12 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Bỏ qua các file trong thư mục target
+/server/target/
+# Bỏ qua file cấu hình IDE
+/server/.idea/
+.idea/
+# Ignore workspace.xml file
+server/.idea/workspace.xml
